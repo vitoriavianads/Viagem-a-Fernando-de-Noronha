@@ -1,0 +1,23 @@
+h1{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 128, 0);
+    border: 10px solid rgb(0, 100, 0);
+    border-radius: 20px;
+}
+#cabecario1{
+    color: black;
+    background-color: rgb(255, 140, 0);
+    border: 6px solid rgb(119, 68, 5);
+    border-radius: 13px;
+}
+img{
+
+    border-radius: 20px;
+    border-style: double;
+    width: 1000px;
+    height: 680px;
+
+}
+#cabecario2{
+    color: blue;
+}
